@@ -11,6 +11,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>WebApplication1.Models.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
-    <NameOfLastUsedPublishProfile>C:\Users\shraddha.vyas\source\repos\Solution1\WebApplication1\Properties\PublishProfiles\ArmTemplate-Deploy - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\shraddha.vyas\Desktop\Application1\Solution1\WebApplication1\Properties\PublishProfiles\ArmTemplate-Deploy - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

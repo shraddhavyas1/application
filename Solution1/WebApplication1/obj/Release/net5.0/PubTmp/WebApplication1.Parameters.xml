@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="ArmTemplate-Deploy" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\shraddha\.vyas\\source\\repos\\Solution1\\WebApplication1\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\shraddha\.vyas\\Desktop\\Application1\\Solution1\\WebApplication1\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

@@ -7154,11 +7154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shraddha.vyas\\source\\repos\\ArmTemplate.Templates\\Solution1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\shraddha.vyas\\Desktop\\Application1\\Solution1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\shraddha.vyas\\source\\repos\\ArmTemplate.Templates\\Solution1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\shraddha.vyas\\Desktop\\Application1\\Solution1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\shraddha.vyas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shraddha.vyas\\source\\repos\\ArmTemplate.Templates\\Solution1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\shraddha.vyas\\Desktop\\Application1\\Solution1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shraddha.vyas\\AppData\\Roaming\\NuGet\\NuGet.Config",
